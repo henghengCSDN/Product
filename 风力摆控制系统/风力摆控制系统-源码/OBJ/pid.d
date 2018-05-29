@@ -1,0 +1,22 @@
+..\obj\pid.o: ..\Config\PID.c
+..\obj\pid.o: ..\USER\stm32f10x.h
+..\obj\pid.o: ..\CORE\core_cm3.h
+..\obj\pid.o: D:\KILE 5\CORE\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\pid.o: ..\USER\system_stm32f10x.h
+..\obj\pid.o: ..\USER\stm32f10x_conf.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\pid.o: ..\USER\stm32f10x.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\pid.o: ..\Config\MPU6050\mpu6050.h
+..\obj\pid.o: ..\Config\IIC\myiic.h
+..\obj\pid.o: ..\Config\SYSTEM\sys.h
+..\obj\pid.o: ..\Config\MPU6050\inv_mpu.h
+..\obj\pid.o: ..\Config\MPU6050\inv_mpu_dmp_motion_driver.h
+..\obj\pid.o: ..\Config\PID.h
+..\obj\pid.o: ..\Config\MOTOR.h
+..\obj\pid.o: ..\Config\function.h
+..\obj\pid.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\pid.o: ..\Config\SYSTEM\delay.h
